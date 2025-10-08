@@ -198,6 +198,6 @@ fraud-detection-project/
 - Author: [Karthik Bhandarkar]
 - Email: [karthikbhandarkar2004@gmail.com]
 - LinkedIn: [www.linkedin.com/in/karthik-bhandarkar]
-- GitHub: [github.com/Karthik-bhandarkar]
+- GitHub: [https://github.com/Karthik-bhandarkar]
 </details>
 
